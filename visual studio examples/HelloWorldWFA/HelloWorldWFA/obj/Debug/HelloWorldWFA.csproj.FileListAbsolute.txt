@@ -1,0 +1,11 @@
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\bin\Debug\HelloWorldWFA.exe.config
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\bin\Debug\HelloWorldWFA.exe
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\bin\Debug\HelloWorldWFA.pdb
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.csprojResolveAssemblyReference.cache
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.Properties.Resources.resources
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.csproj.GenerateResource.Cache
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.exe
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.pdb
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.Form1.resources
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.Form2.resources
+C:\Users\Brian\SkyDrive\visual studio\HelloWorldWFA\HelloWorldWFA\obj\Debug\HelloWorldWFA.Form3_DrawArrow.resources
